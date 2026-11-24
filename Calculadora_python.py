@@ -1,5 +1,3 @@
-#import 
-
 # Simbulos matematicos de python
 print("\nDigite os valores")
 a = float(input("- "))
@@ -29,4 +27,3 @@ curso = input("Digite o nome do seu curso: ")
 cidade = input("Digite o nome da sua cidade: ")
 
 print(f"\nNome:", {nome}, "\nIdade:", {idade}, "\nCurso:", {curso}, "\nCidade", {cidade}, "\n")
-#.commit()
